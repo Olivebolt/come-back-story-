@@ -8,6 +8,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   background-color: #f4f4f4;
+  text-align: center; /* Center everything */
 }
 
 header {
@@ -44,8 +45,11 @@ header .cart a {
   font-weight: bold;
 }
 
-<!-- good-- > .quote-form {
+.quote-form {
   margin-top: 40px;
+  margin-left: auto; 
+  margin-right: auto; 
+  text-align: left; 
 }
 
 #quoteForm label {
