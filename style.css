@@ -88,12 +88,13 @@ header .cart a {
 }
 
 .product {
-  background-color: white;
+  background-color: rgba(244, 231, 231, 0.3); 
   padding: 1rem;
   border: 1px solid #ddd;
   border-radius: 5px;
   width: 300px;
 }
+
 
 .product img {
   max-width: 100%;
