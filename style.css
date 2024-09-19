@@ -90,10 +90,11 @@ header .cart a {
 .product {
   background-color: rgba(244, 231, 231, 0.3); 
   padding: 1rem;
-  border: 1px solid #ddd;
+  border: none;
   border-radius: 5px;
   width: 300px;
-}
+  box-shadow: 10px 5px 5px black;
+  border-radius: 30px;}
 
 
 .product img {
