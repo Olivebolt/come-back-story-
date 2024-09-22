@@ -1,3 +1,6 @@
+body {
+  background: url("images/back2.jpg");
+}
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +26,7 @@ header .logo h1 {
   font-size: 1.5rem;
 }
 
+
 header nav ul {
   list-style: none;
   display: flex;
@@ -47,7 +51,7 @@ header .cart a {
 .hero {
 
 
-    center/cover;
+    center: cover;
   color: white;
   text-align: center;
   padding: 4rem 2rem;
@@ -136,4 +140,8 @@ footer {
 
 footer p {
   margin: 0;
+}
+
+body {
+  background: url("images/back2.jpg");
 }
